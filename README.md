@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pranay Anand
-- 👀 I’m interested in 
-- 🌱 I’m currently learning fullStack Development
-- 💞️ I’m looking to collaborate on ...
+- 👀 Startup enthusiast.
+- 🌱 FullStack Developer
+- 💞️ I’m looking to collaborate with visionary startups.
 - 📫 How to reach me - pranayanand668@gmail.com
 - ⚡ Fun fact: It's a |\/| () () point.
 <!---
